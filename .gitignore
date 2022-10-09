@@ -1,0 +1,9 @@
+.git/
+*.egg-info/
+ocpython/__pycache__/
+build/
+docs/build/
+examples/.idea/
+examples/dll/
+examples/venv/
+/examples/OC_python.log
